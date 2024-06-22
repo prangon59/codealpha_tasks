@@ -10,22 +10,6 @@ The CodeAlpha Cyber Security Internship is a fantastic opportunity to gain hands
 
 The repository is organized as follows:
 
-Sure! Here's a sample README.md file for your internship task repository:
-
-markdown
-Copy code
-# CodeAlpha Cyber Security Internship - Task Tracker
-
-Welcome to the CodeAlpha Cyber Security Internship Task Tracker! This repository is dedicated to keeping a record of all the tasks assigned to me during my internship at CodeAlpha from June 10, 2024, to September 10, 2024. I will update this repository regularly as I complete each task.
-
-## About the Internship
-
-The CodeAlpha Cyber Security Internship is a fantastic opportunity to gain hands-on experience in the field of cyber security. The internship focuses on learning new skills and gaining a deeper understanding of concepts through practical application.
-
-## Repository Structure
-
-The repository is organized as follows:
-
 .
 ├── Task-1/
 │ ├── description.md
