@@ -71,7 +71,9 @@ The repository is organized as follows:
 For any questions or collaboration opportunities, please feel free to reach out.
 
 **Name**: Sakib Hassan
+
 **Email**: hassansakib175@gmail.com 
+
 **LinkedIn**: https://www.linkedin.com/in/sakib-hassan-prangon-8b8026196/
 
 ---
